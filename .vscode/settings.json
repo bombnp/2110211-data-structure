@@ -1,0 +1,11 @@
+{
+  "files.exclude": {
+    "**/**.exe": true
+  },
+  "files.associations": {
+    "ios": "cpp",
+    "utility": "cpp",
+    "vector": "cpp",
+    "stack": "cpp"
+}
+}
